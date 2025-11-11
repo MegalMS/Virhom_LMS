@@ -29,7 +29,7 @@ export default function MobileSidebar() {
               <div className="w-12 h-12 bg-gradient-to-br from-green-400 to-green-600 rounded-full flex items-center justify-center text-2xl font-bold shadow-lg">
                 "
               </div>
-              <h1 className="text-2xl font-bold">Anglo-Link</h1>
+              <h1 className="text-2xl font-bold">VirHome</h1>
             </div>
           </div>
 
@@ -68,7 +68,7 @@ export default function MobileSidebar() {
           </nav>
 
           <div className="p-6 border-t border-white/10 text-sm text-gray-400 text-center">
-            © 2025 Anglo-Link
+            © 2025 VirHome
           </div>
         </div>
       </div>

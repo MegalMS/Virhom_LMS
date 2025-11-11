@@ -64,7 +64,7 @@ function Footer() {
               <div className="flex items-center gap-2 text-[#DCC7AA] group cursor-pointer">
                 <Mail size={20} className="group-hover:scale-110 transition-transform" />
                 <p className="text-lg font-medium group-hover:text-white transition-colors">
-                  office@anglo-link.com
+                  office@VirHome.com
                 </p>
               </div>
               
@@ -160,7 +160,7 @@ function Footer() {
 
         {/* Tagline */}
         <FadeInDiv className="text-center space-y-3 mb-8" delay={400}>
-          <h4 className="text-2xl font-bold text-[#DCC7AA]">Anglo-Link</h4>
+          <h4 className="text-2xl font-bold text-[#DCC7AA]">VirHome</h4>
           <p className="text-[#CBB59D] italic">Your journey to English fluency starts here</p>
         </FadeInDiv>
       </div>
@@ -169,7 +169,7 @@ function Footer() {
       <div className="bg-gradient-to-r from-[#4a3535] via-[#3d2f2f] to-[#4a3535] py-5 text-center relative border-t border-[#CBB59D]/20">
         <div className="relative z-10">
           <p className="text-[#CBB59D] text-sm font-medium">
-            Anglo-Link Languages Ltd © 2025 All Rights Reserved
+            VirHome Languages Ltd © 2025 All Rights Reserved
           </p>
           <p className="text-[#A27B5C] text-xs mt-1">
             Crafted with passion for language learners worldwide
@@ -195,12 +195,12 @@ export default Footer;
 //           {/* Left Section */}
 //           <div className="flex flex-col items-center md:items-start space-y-4 flex-1">
 //             <Image
-//               src="https://anglo-link.com/images/anglolink_logo_white_comma.svg"
-//               alt="Anglo-Link Logo"
+//               src="https://VirHome.com/images/anglolink_logo_white_comma.svg"
+//               alt="VirHome Logo"
 //               width={55}
 //               height={55}
 //             />
-//             <p className="text-lg font-semibold">office@anglo-link.com</p>
+//             <p className="text-lg font-semibold">office@VirHome.com</p>
 //             <button className="border border-white px-5 py-2 rounded hover:bg-white hover:text-[#414146] transition">
 //               Contact Us
 //             </button>
@@ -258,7 +258,7 @@ export default Footer;
 
 //         {/* Bottom Bar */}
 //         <div className="bg-[#3b3b3f] py-4 text-center text-gray-300 text-sm">
-//           Anglo-Link Languages Ltd © 2025 All Rights Reserved
+//           VirHome Languages Ltd © 2025 All Rights Reserved
 //         </div>
 //       </div>
 //   )

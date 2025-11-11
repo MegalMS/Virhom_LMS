@@ -225,7 +225,7 @@
 
   //       <div className="text-center mt-8">
   //   <a
-  //     href="https://anglo-link.com/features/"
+  //     href="https://VirHome.com/features/"
   //     className="inline-block text-blue-400 px-5 py-2 rounded-full transition"
   //   >
   //     View all features

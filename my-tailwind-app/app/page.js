@@ -200,12 +200,12 @@
           </div>
         </div>
 
-        {/* Why Anglo-Link Section */}
+        {/* Why VirHome Section */}
         <section id="features" className="py-24 bg-gradient-to-b from-[#F5F1ED] to-[#EDE5DD]">
           <div className="max-w-7xl mx-auto px-6 text-center">
             <MotionDiv delay={100}>
               <h2 className="text-5xl font-bold text-[#3E2723] mb-4">
-                Why Anglo-Link?
+                Why VirHome?
               </h2>
             </MotionDiv>
             
@@ -596,7 +596,7 @@
 //       {/* <header className="bg-[#207FC5] text-white relative">
 //         {/* Mobile Header */}
 //       <div className="flex justify-between items-center p-6 lg:hidden">
-//         <h className="text-3xl font-bold text-[#7ED957]">Anglo-Link</h>
+//         <h className="text-3xl font-bold text-[#7ED957]">VirHome</h>
 //         <button
 //           onClick={() => setIsMenuOpen(!isMenuOpen)}
 //           className="text-white"
@@ -689,11 +689,11 @@
 //       </div>
 
 //       {/* Rest of your components remain exactly the same */}
-//       {/* Why Anglo-Link Section */}
+//       {/* Why VirHome Section */}
 //       <section className="py-24 bg-[#293A4C]">
 //         <div className="max-w-7xl mx-auto px-6 text-center">
 //           <h2 className="text-5xl font-bold text-white mb-4">
-//             Why Anglo-Link?
+//             Why VirHome?
 //           </h2>
 //           <p className="text-xl text-gray-300 mb-16 max-w-3xl mx-auto">
 //             Our goal is to offer you one of the best self-study English courses

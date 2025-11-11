@@ -13,7 +13,7 @@ const montserrat = Montserrat({
 });
 
 export const metadata = {
-  title: "Anglo-Link",
+  title: "VirHome",
   description: "Your roadmap to fluency and confidence in English",
 };
 
