@@ -125,7 +125,7 @@ export default function Navbar() {
                 href="/"
                 className="text-3xl font-bold bg-gradient-to-r from-[#6B4F4F] to-[#A27B5C] bg-clip-text text-transparent hover:scale-105 transition-transform duration-300"
               >
-                VirHome
+                VirHom
               </a>
 
               {/* Desktop Navigation */}
@@ -237,7 +237,7 @@ export default function Navbar() {
       <header className="lg:hidden bg-gradient-to-r from-[#6B4F4F] to-[#A27B5C] text-white sticky top-0 z-50 shadow-lg">
         <div className="flex justify-between items-center p-6">
           <a href="/" className="text-3xl font-bold text-[#DCC7AA]">
-            VirHome
+            VirHom
           </a>
           <button
             onClick={() => setIsMenuOpen(!isMenuOpen)}
@@ -418,7 +418,7 @@ export default function Navbar() {
 //       <header className="bg-[#207FC5] text-white relative">
 //         {/* Mobile Header */}
 //         <div className="flex justify-between items-center p-6 lg:hidden">
-//           <h1 className="text-3xl font-bold text-[#7ED957]">VirHome</h1>
+//           <h1 className="text-3xl font-bold text-[#7ED957]">VirHom</h1>
 //           <button
 //             onClick={() => setIsMenuOpen(!isMenuOpen)}
 //             className="text-white"

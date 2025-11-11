@@ -41,7 +41,7 @@ const Page = () => {
             </p>
 
             <img
-              src="https://VirHome.com/images/comments.png"
+              src="https://VirHom.com/images/comments.png"
               alt="Comments"
               className="comments mx-auto"
             />
@@ -68,7 +68,7 @@ const Page = () => {
               </div>
               <div className="flex justify-center">
                 <img
-                  src="https://VirHome.com/images/comment_1.png"
+                  src="https://VirHom.com/images/comment_1.png"
                   alt="Comment 1"
                   className="comment rounded-lg shadow-md"
                 />
@@ -79,7 +79,7 @@ const Page = () => {
             <div className="wrapper_collapse no_pad grid md:grid-cols-2 gap-10 items-center mt-10">
               <div className="order-2 md:order-1 flex justify-center">
                 <img
-                  src="https://VirHome.com/images/comment_2.png"
+                  src="https://VirHom.com/images/comment_2.png"
                   alt="Comment 2"
                   className="comment rounded-lg shadow-md"
                 />
@@ -111,7 +111,7 @@ const Page = () => {
               </div>
               <div className="flex justify-center">
                 <img
-                  src="https://VirHome.com/images/comment_3.png"
+                  src="https://VirHom.com/images/comment_3.png"
                   alt="Comment 3"
                   className="comment rounded-lg shadow-md"
                 />
@@ -185,7 +185,7 @@ const Page = () => {
 
         <div className="text-center mt-12">
           <a
-            href="https://VirHome.com/features/"
+            href="https://VirHom.com/features/"
             className="inline-flex items-center text-amber-700 font-medium hover:text-amber-900 hover:underline transition-all"
           >
             View all features

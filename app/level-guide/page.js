@@ -80,7 +80,7 @@
 // // //       <div className="max-w-5xl mx-auto px-4">
 // // //         {/* Heading */}
 // // //         <h2 className="text-center text-2xl md:text-3xl font-semibold text-gray-800 mb-10">
-// // //           VirHome's ranks in the framework of international tests
+// // //           VirHom's ranks in the framework of international tests
 // // //         </h2>
 
 // // //         {/* Table */}
@@ -89,7 +89,7 @@
 // // //             <thead>
 // // //               <tr className="bg-[#E8F3FC] border-b border-blue-300">
 // // //                 <th className="p-3 text-sm font-semibold text-gray-800 border-r border-blue-300">
-// // //                   VirHome level
+// // //                   VirHom level
 // // //                 </th>
 // // //                 <th className="p-3 text-sm font-semibold text-gray-800 border-r border-blue-300">
 // // //                   CEFR
@@ -253,7 +253,7 @@
 // //       <section className="bg-white py-20">
 // //         <div className="max-w-5xl mx-auto px-4">
 // //           <h2 className="text-center text-2xl md:text-3xl font-semibold text-gray-800 mb-10">
-// //             VirHome's ranks in the framework of international tests
+// //             VirHom's ranks in the framework of international tests
 // //           </h2>
 
 // //           <div className="overflow-x-auto shadow-[0_0_8px_rgba(0,0,0,0.1)] rounded-md">
@@ -261,7 +261,7 @@
 // //               <thead>
 // //                 <tr className="bg-[#E8F3FC] border-b border-blue-300">
 // //                   <th className="p-3 text-sm font-semibold text-gray-800 border-r border-blue-300">
-// //                     VirHome level
+// //                     VirHom level
 // //                   </th>
 // //                   <th className="p-3 text-sm font-semibold text-gray-800 border-r border-blue-300">
 // //                     CEFR
@@ -483,7 +483,7 @@
 //       <section className="bg-white py-20 relative">
 //         <div className="max-w-5xl mx-auto px-4">
 //           <h2 className="text-center text-2xl md:text-3xl font-semibold text-gray-800 mb-10">
-//             VirHome's ranks in the framework of international tests
+//             VirHom's ranks in the framework of international tests
 //           </h2>
 
 //           {/* Table */}
@@ -492,7 +492,7 @@
 //               <thead>
 //                 <tr className="bg-[#E8F3FC] border-b border-blue-300">
 //                   <th className="p-3 text-sm font-semibold text-gray-800 border-r border-blue-300">
-//                     VirHome level
+//                     VirHom level
 //                   </th>
 //                   <th className="p-3 text-sm font-semibold text-gray-800 border-r border-blue-300">
 //                     CEFR
@@ -701,7 +701,7 @@ export default function Page() {
       <section className="bg-white py-20 relative">
         <div className="max-w-5xl mx-auto px-4">
           <h2 className="text-center text-2xl md:text-3xl font-semibold text-gray-800 mb-10">
-            VirHome's ranks in the framework of international tests
+            VirHom's ranks in the framework of international tests
           </h2>
 
           {/* Table */}
@@ -710,7 +710,7 @@ export default function Page() {
               <thead>
                 <tr className="bg-[#E8F3FC] border-b border-blue-300">
                   <th className="p-3 text-sm font-semibold text-gray-800 border-r border-blue-300">
-                    VirHome level
+                    VirHom level
                   </th>
                   <th className="p-3 text-sm font-semibold text-gray-800 border-r border-blue-300">
                     CEFR

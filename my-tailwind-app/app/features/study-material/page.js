@@ -225,7 +225,7 @@
 
   //       <div className="text-center mt-8">
   //   <a
-  //     href="https://VirHome.com/features/"
+  //     href="https://VirHom.com/features/"
   //     className="inline-block text-blue-400 px-5 py-2 rounded-full transition"
   //   >
   //     View all features
