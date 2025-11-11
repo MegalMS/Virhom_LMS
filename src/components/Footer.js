@@ -195,7 +195,7 @@ export default Footer;
 //           {/* Left Section */}
 //           <div className="flex flex-col items-center md:items-start space-y-4 flex-1">
 //             <Image
-//               src="https://VirHom.com/images/anglolink_logo_white_comma.svg"
+//               src="https://anglo-link.com/images/anglolink_logo_white_comma.svg"
 //               alt="VirHom Logo"
 //               width={55}
 //               height={55}
